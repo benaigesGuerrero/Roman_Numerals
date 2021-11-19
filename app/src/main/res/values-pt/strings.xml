@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Numerais romanos</string>
+    <string name="convert_button">Converta</string>
+    <string name="insert">Inserir um valor</string>
+    <string name="tvResult">Resultado</string>
+    <string name="romanToDecimal">Romana a decimal</string>
+    <string name="decimalToRoman">Decimal para Romano</string>
+    <string-array name="WrongRoman">
+        <item>Numeral romano incorrecto!</item>
+        <item>Não creio que os numerais romanos sejam escritos dessa forma</item>
+        <item>O que é que escreveu? Porque isso não é um numeral romano</item>
+        <item>Não, numeral romano errado</item>
+        <item>Numeral romano errado</item>
+        <item>Infelizmente, isso não é um numeral romano</item>
+        <item>Isso não é um numeral romano. Digamos que o resultado é 46</item>
+    </string-array>
+    <string-array name="WrongInt">
+        <item>Um número tão esquisito. Oh, espera, não é um número</item>
+        <item>Número incorrecto!</item>
+        <item>Isso não é um número</item>
+        <item>Número errado. Lembre-se que os numerais romanos só chegam a 3999!</item>
+        <item>Dica: É necessário digitar um número real para obter um resultado</item>
+    </string-array>
+    <string name="copiedResult">Resultado copiado</string>
+    <string name="Copy">Resultado da cópia</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734215702643",
+    "project_id": "roman-numerals-1ef7f",
+    "storage_bucket": "roman-numerals-1ef7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734215702643:android:e353db860585d5a176c206",
+        "android_client_info": {
+          "package_name": "org.insbaixcamp.romannumbers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734215702643-2sj7lp9a1uaum5h826h05rrutbpu6snc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTpGj6o0-C509BNpNy_1xyULWIOrZSrsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734215702643-2sj7lp9a1uaum5h826h05rrutbpu6snc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

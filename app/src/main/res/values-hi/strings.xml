@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रोमन संख्याएँ</string>
+    <string name="convert_button">धर्मांतरित</string>
+    <string name="insert">एक मान डालें</string>
+    <string name="tvResult">नतीजा</string>
+    <string name="romanToDecimal">रोमन से दशमलव</string>
+    <string name="decimalToRoman">दशमलव से रोमन</string>
+    <string-array name="WrongRoman">
+        <item>गलत रोमन अंक!</item>
+        <item>मुझे नहीं लगता कि रोमन अंक इस तरह लिखे गए हैं</item>
+        <item>आपने क्या लिखा? क्योंकि वह रोमन अंक नहीं है</item>
+        <item>नहीं, गलत रोमन अंक</item>
+        <item>गलत रोमन अंक</item>
+        <item>दुर्भाग्य से, यह रोमन अंक नहीं है</item>
+        <item>यह रोमन अंक नहीं है। मान लीजिए कि परिणाम 46 . है</item>
+    </string-array>
+    <string-array name="WrongInt">
+        <item>ऐसा अजीब नंबर। ओह रुको, कोई संख्या नहीं है</item>
+        <item>गलत संख्या!</item>
+        <item>यह कोई संख्या नहीं है</item>
+        <item>गलत नंबर। याद रखें कि रोमन अंक केवल 3999 तक ही मिलते हैं!</item>
+        <item>संकेत: परिणाम प्राप्त करने के लिए आपको एक वास्तविक संख्या टाइप करनी होगी</item>
+    </string-array>
+    <string name="copiedResult">परिणाम कॉपी किया गया</string>
+    <string name="Copy">परिणाम कॉपी करें</string>
+</resources>

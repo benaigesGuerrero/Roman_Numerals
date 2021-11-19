@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="convert_button">Convert</string>
+    <string name="insert">Insert the value</string>
+    <string name="tvResult">Result</string>
+</resources>

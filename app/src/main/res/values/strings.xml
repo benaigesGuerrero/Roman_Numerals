@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Roman Numerals</string>
+    <string name="convert_button">Convert</string>
+    <string name="insert">Insert a value</string>
+    <string name="tvResult">Result</string>
+    <string name="romanToDecimal">Roman to decimal</string>
+    <string name="decimalToRoman">Decimal to Roman</string>
+    <!-- ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2350516671344573/7810145678</string>
+    <string-array name="WrongRoman">
+        <item>Incorrect Roman numeral!</item>
+        <item>I don\'t think Roman numerals are written like that</item>
+        <item>Did you write a keysmash? Because that\'s not a Roman numeral</item>
+        <item>Nope, wrong Roman numeral</item>
+        <item>Wrong Roman numeral</item>
+        <item>Unfortunately, that\'s not a Roman numeral</item>
+        <item>That\'s not a Roman numeral. Let\'s say the result is 46</item>
+    </string-array>
+    <string-array name="WrongInt">
+        <item>Such a weird number. Oh, wait, is not a number</item>
+        <item>Incorrect number!</item>
+        <item>That\'s not a number</item>
+        <item>Wrong number. Remember that Roman numerals only get to 3999!</item>
+        <item>Hint: You have to type an actual number to get a result</item>
+    </string-array>
+    <string name="copiedResult">Result copied</string>
+    <string name="Copy">Copy result</string>
+</resources>

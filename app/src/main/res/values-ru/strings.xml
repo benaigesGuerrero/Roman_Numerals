@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Римские цифры</string>
+    <string name="convert_button">Конвертировать</string>
+    <string name="insert">Вставить значение</string>
+    <string name="tvResult">Результат</string>
+    <string name="romanToDecimal">Роман в десятичный</string>
+    <string name="decimalToRoman">Десятичный в римский</string>
+    <string-array name="WrongRoman">
+        <item>Неверное римское число!</item>
+        <item>Я не думаю, что римские цифры так пишутся.</item>
+        <item>Что вы написали? Потому что это не римская цифра</item>
+        <item>Нет, не та римская цифра</item>
+        <item>Неправильная римская цифра</item>
+        <item>К сожалению, это не римская цифра</item>
+        <item>Это не римская цифра. Допустим, результат равен 46</item>
+    </string-array>
+    <string-array name="WrongInt">
+        <item>Такое странное число. О, подождите, это не число</item>
+        <item>Неправильный номер!</item>
+        <item>Это не число</item>
+        <item>Неправильное число. Помните, что римские цифры доходят только до 3999!</item>
+        <item>Подсказка: Для получения результата необходимо ввести фактическое число</item>
+    </string-array>
+    <string name="copiedResult">Результат скопирован</string>
+    <string name="Copy">Результат копирования</string>
+</resources>

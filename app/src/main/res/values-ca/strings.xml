@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Números romans</string>
+    <string name="convert_button">Converteix</string>
+    <string name="insert">Introdueix un valor</string>
+    <string name="tvResult">Resultat</string>
+    <string name="romanToDecimal">Romà a decimal</string>
+    <string name="decimalToRoman">Decimal a romà</string>
+    <string-array name="WrongRoman">
+        <item>Número romà incorrecte!</item>
+        <item>No crec que els números romans s\’escriguin així</item>
+        <item>No és un número romà</item>
+        <item>No, número romà equivocat</item>
+        <item>Número romà incorrecte</item>
+        <item>Malauradament, no és un número romà</item>
+        <item>Aquest no és un número romà. Diguem que el resultat és 46</item>
+    </string-array>
+    <string-array name="WrongInt">
+        <item>Quin número més raro. Oh, espera, no és un número </item>
+        <item>Número incorrecte!</item>
+        <item>Això no és un número</item>
+        <item>Número incorrecte. Recorda que els números romans només arriben al 3999!</item>
+        <item>Consell: Has d\'escriure un número real per obtenir un resultat</item>
+    </string-array>
+    <string name="copiedResult">Resultat copiat</string>
+    <string name="Copy">Copiar resultat</string>
+
+</resources>

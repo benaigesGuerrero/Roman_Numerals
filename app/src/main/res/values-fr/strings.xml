@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chiffres romains</string>
+    <string name="convert_button">Convertir</string>
+    <string name="insert">Insérer une valeur</string>
+    <string name="tvResult">Résultat</string>
+    <string name="romanToDecimal">De romain à décimal</string>
+    <string name="decimalToRoman">Décimal à Romain</string>
+    <string-array name="WrongRoman">
+        <item>Mauvais chiffre romain!</item>
+        <item>Je ne pense pas que les chiffres romains soient écrits comme ça.</item>
+        <item>Qu\'est-ce que tu as écrit? Parce que ce n\'est pas un chiffre romain</item>
+        <item>Non, mauvais chiffre romain</item>
+        <item>Chiffre romain erroné</item>
+        <item>Malheureusement, ce n\'est pas un chiffre romain</item>
+        <item>Ce n\'est pas un chiffre romain. Disons que le résultat est 46</item>
+    </string-array>
+    <string-array name="WrongInt">
+        <item>Un nombre tellement étrange. Oh, attends, ce n\'est pas un nombre</item>
+        <item>Numéro incorrect!</item>
+        <item>That\'s not a number</item>
+        <item>Mauvais numéro. N\'oubliez pas que les chiffres romains n\'atteignent que 3999!</item>
+        <item>Astuce: vous devez taper un nombre réel pour obtenir un résultat</item>
+    </string-array>
+    <string name="copiedResult">Résultat copié</string>
+    <string name="Copy">Copier le résultat</string>
+</resources>

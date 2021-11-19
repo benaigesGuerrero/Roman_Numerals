@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Römische Ziffern</string>
+    <string name="convert_button">Konvertieren</string>
+    <string name="insert">Den Wert einfügen</string>
+    <string name="tvResult">Ergebnis</string>
+    <string name="romanToDecimal">Römisch zu dezimal</string>
+    <string name="decimalToRoman">Dezimal zu Roman</string>
+    <string-array name="WrongRoman">
+        <item>Falsche römische Zahl!</item>
+        <item>Ich glaube nicht, dass römische Ziffern so geschrieben werden</item>
+        <item>Was hast du geschrieben? Weil das keine römische Zahl ist</item>
+        <item>Nein, falsche römische Zahl</item>
+        <item>Falsche römische Zahl</item>
+        <item>Leider ist das keine römische Zahl</item>
+        <item>Das ist keine römische Zahl. Sagen wir, das Ergebnis ist 46</item>
+    </string-array>
+    <string-array name="WrongInt">
+        <item>So eine komische Zahl. Oh, warte, ist keine Zahl</item>
+        <item>Falsche Zahl!</item>
+        <item>Das ist keine Zahl</item>
+        <item>Falsche Zahl. Denken Sie daran, dass die römischen Zahlen nur bis 3999 reichen!</item>
+        <item>Hinweis: Sie müssen eine tatsächliche Zahl eingeben, um ein Ergebnis zu erhalten</item>
+    </string-array>
+    <string name="copiedResult">Ergebnis kopiert</string>
+    <string name="Copy">Ergebnis kopieren</string>
+</resources>
